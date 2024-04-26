@@ -24,6 +24,10 @@ Don't go to that complex things
 -
 We can start with a larger value and once the error stop to go down decrease it.
 
+Can we use different learning rate while training
+-
+Yes sir
+
 What is SGD
 -
 In GD we make a step after considering all inputs but in SGD we update after one input and in case of mini batch we update after some number of inputs
@@ -44,6 +48,7 @@ Yes sir
 
 What are Properties of PDF
 -
+It is the probability of a event with continous outcome. The probility of a value with infinate pricision is zero. The probability of range is given by the area under.
 
 What are properties of CDF
 -
