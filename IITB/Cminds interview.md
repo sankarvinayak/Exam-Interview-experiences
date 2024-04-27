@@ -42,20 +42,25 @@ I dont know sir,
 
 Ok , The answer is it avoids local minima.
 -
-Have studied Probability
+Have you studied Probability
 -
 Yes sir
 
 What are Properties of PDF
 -
-It is the probability of a event with continous outcome. The probility of a value with infinate pricision is zero. The probability of range is given by the area under.
+It is the probability of a event with continous outcome. The probility of a value with infinate pricision is zero. The probability of range is given by the area under.The total area under will be 1 as probability is at max 1
 
 What are properties of CDF
 -
+It is the probability of value equal or less than x. That is integran minus infinity to x p(x).It is minimum value is 0 and maximum value is 1
+
+Is it increasing decreasing..
+-
+It is increasing,not strictly increaing but it is increasing
 
 Time complexity of multiplying matrix m1 with s1 nonzero elements and m2 with s2 non zero elements
 -
-sl*s2 sir 
+s1*s2 sir 
 
 Think more
 -
