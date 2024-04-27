@@ -81,12 +81,12 @@ It will be less than 10 sir
 What can you say about its eigne value
 -
 Its non zero eigne value is same as that of A<sup>T</sup>A
-(missed point non negative real )
 
 Ok your answer is correct.Why? Whay can you say about the sign of eigne values
 -
 Sorry sir I dont know.
 
+(missed point non negative real,ABx=lambda x,BABx=lambda Bx same eigne value eigne vector Bx)
 
 Ok.One final question.Explain your final year poject contribution
 -
