@@ -64,7 +64,7 @@ s1*s2 sir
 
 Think more
 -
-Sorry sir I am not getting.
+Sorry sir I am not getting.(missed:s1+s2)
 
 Fine. Have you learned Linear algebra.Let A be 20X10 matrix Properties of AA<sup>T</sup>
 -
