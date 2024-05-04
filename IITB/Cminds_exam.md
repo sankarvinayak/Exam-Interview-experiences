@@ -1,3 +1,5 @@
+CodeThanthra environment
+=
 exam goes through the basic physics of first year and highersecondary 
 - Physics include resonance frequency of circuit,hibbs energy,
 - Linear algebra linear system of equations,intersection and uniton of vector sapces
