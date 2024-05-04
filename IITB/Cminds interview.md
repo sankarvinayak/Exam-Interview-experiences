@@ -1,3 +1,5 @@
+Online meeting through microsoft teams,google sheet provided to know status on interviews
+=
 Explain your academic background
 -
 What is your favorite machine learning algorithm like regression,SVM,neural network etc
