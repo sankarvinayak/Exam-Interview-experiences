@@ -13,7 +13,10 @@ IITB
 
 IITM
 -
-[MS DSAI Exam](./IITM/DSAI%20exam.md)
+
+[Aptitude](./IITM/Aptitude.md) \
+[MS DSAI Exam](./IITM/DSAI%20exam.md) 
 
 IITD
 -
+[MS CSE exam](./IITD/MS%20CS%20exam.md)
