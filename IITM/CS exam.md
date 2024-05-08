@@ -1,9 +1,10 @@
 Offline exam at CSE labs through CSMoodle
 =
-A session to interact with HOD before the exam \
+A session to interact with HOD before the exam
 
-30 questions you are expected to answer atleast 20(given in instructions) negative marking is there \ 
-Similar to GATE syllabus \
+30 questions you are expected to answer atleast 20(given in instructions) negative marking is there \
+Similar to GATE syllabus 
+
 Contains aptitude and CS related questions
 
 - DL - minimization
