@@ -20,6 +20,9 @@ IITM
 [Aptitude](./IITM/Aptitude.md) \
 [DSAI Exam](./IITM/DSAI%20exam.md)  \
 [CS Exam](./IITM/CS%20exam.md) 
+[DSAI MS interview](./IITM/dsai_ms_interview.md) 
+[CS MS interview Intalligent systems](./IITM/dsai_ms_interview.md) 
+[DSAI MS interview systems](./IITM/dsai_ms_interview.md) 
 
 IITD
 -
