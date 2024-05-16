@@ -10,7 +10,7 @@ section 1
 Mathemarics relate questions,graph,relation and function,etc
 
 
-Sectioin 2
+Section 2
 -
 - find minimum cost trip given adjecency matrix, cost from each locaton, corrent location, how much time can wait
 - find minimum difference of max and min in a subset
