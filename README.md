@@ -5,10 +5,10 @@ Exams and interview experience after GATE exam and for the admission in Mtech/Mt
 IISC
 -
 
-[Mtech CDS](./IISC/Mtech%20CDS.md)
-[Mtech Research CDS exam](./IISC/MTech%20Research%20CDS%20exam.md)
-[Mtech Research CDS Dream lab](./IISC/MTech%20Research%20CDS%20dream%20lab.md)
-[Mtech Research CDS VAL](./IISC/MTech%20Research%20VAL.md)
+[Mtech CDS](./IISC/Mtech%20CDS.md) \
+[Mtech Research CDS exam](./IISC/MTech%20Research%20CDS%20exam.md) \
+[Mtech Research CDS Dream lab](./IISC/MTech%20Research%20CDS%20dream%20lab.md) \
+[Mtech Research CDS VAL](./IISC/MTech%20Research%20VAL.md) \
 [Mtech Research CSA IS panel](./IISC/MTech%20Research%20CSA.md)
 
 IITB
