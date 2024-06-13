@@ -37,6 +37,7 @@ IITD
 [CS MS interview](./IITD/MS%20interview.md)🤯👍 \
 [CS MS interview Project Prof Venketa](./IITD/Project%20Prof%20Venketa.md)\
 [CS MS interview Project Prof Priyanka Golia](./IITD/Project%20Prof%20Priyanka%20Golia.md)\
+(Got IITD ms TA offer not sure if it is through project or not)
 [MTech Robotics programming test](./IITD/Robotics_programming_test.md)🤯👍 \
 [Yardi ScAI exam](./IITD/minds.md) 
 
