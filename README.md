@@ -27,12 +27,15 @@ IITM
 [CS Exam](./IITM/CS%20exam.md)👍 \
 [DSAI MS interview](./IITM/dsai_ms_interview.md) \
 [CS MS interview Intalligent systems](./IITM/CS_panel_C.md) \
-[CS MS interview systems](./IITM/CS_MS_panelB.md)👍 \
+[CS MS interview Computing systems](./IITM/CS_MS_panelB.md)👍 \
 [DSAI Direct PHD interview](./IITM/DSAI_direct_PHD_interview.md) 
 
 IITD
 -
 [CS MS exam](./IITD/MS%20CS%20exam.md)👍 \
+[CS MS interview](./IITD/MS%20interview.md)👍 \
+[CS MS interview Project Prof Venketa](./IITD/Project%20Prof%20Venketa.md)\
+[CS MS interview Project Prof Priyanka Golia](./IITD/Project%20Prof%20Priyanka%20Golia.md)\
 [MTech Robotics programming test](./IITD/Robotics_programming_test.md)👍 \
 [Yardi ScAI exam](./IITD/minds.md) 
 
